@@ -45,5 +45,5 @@ steps:
   inputs:
     azureSubscription: 'Azure Connection'
     appType: 'webApp'
-    appName: 'ekaarre24-exercise-13'
+    appName: 'exercise-13-ekaarre24'
     package: '$(System.ArtifactsDirectory)/drop/js-e2e-express-server.zip'
